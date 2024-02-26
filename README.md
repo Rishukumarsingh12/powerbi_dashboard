@@ -24,14 +24,6 @@ Internet connection to load the dataset from Kaggle,
 Installation,
 Clone this repository to your local machine.
 
-bash
-Copy code
-git clone https://github.com/your-username/global-store-2016-dashboard.git
-Open the Power BI Desktop and connect to the dataset using the provided link.
-
-Customize the dashboard based on your preferences.
-
-Save the Power BI file.
 
 Update the dashboard preview image with a screenshot of your customized dashboard.
 
